@@ -1,8 +1,9 @@
+`pnpm install`  
+`pnpm build`
 
-`edgedb migration create`
-`edgedb migrate`
+### EdgeDB
+`edgedb migration create`  
+`edgedb migrate`    
 
-
-
-generate TS-Client
+generate TS-Client  
 `npx edgeql-js`
